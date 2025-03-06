@@ -1,0 +1,38 @@
+﻿[
+    {
+        "phrase": "hello",
+        "translation": "مرحباً",
+        "pronunciation": "marḥaban",
+        "contexts": [
+            "greeting",
+            "initial contact",
+            "phone conversation"
+        ],
+        "definitions": [
+            "a common greeting used to express politeness and initiate conversation",
+            "an expression of goodwill"
+        ],
+        "original_form": "hello",
+        "language": "English",
+        "parts_of_speech": [
+            "interjection"
+        ],
+        "examples": [
+            {
+                "en": "Hello, how are you?",
+                "ar": "مرحباً، كيف حالك؟"
+            },
+            {
+                "en": "Hello there!",
+                "ar": "مرحباً هناك!"
+            },
+            {
+                "en": "They said hello and left.",
+                "ar": "قالوا مرحباً ثم غادروا."
+            }
+        ],
+        "etymology": null,
+        "possible_correction": null,
+        "confidence": 1.0
+    }
+]
