@@ -58,9 +58,6 @@ This Streamlit application leverages advanced language models to provide high-qu
 
 Contributions are welcome! Feel free to open issues or submit pull requests to enhance this project.
 
-## License
-
-This project is licensed under the MIT License.
 
 ## Acknowledgements
 
