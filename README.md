@@ -22,7 +22,7 @@ This Streamlit application leverages advanced language models to provide high-qu
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/abdalrohman/Ai-Translator
+   git clone [Link of the repo]
    cd Ai-Translator
    ```
 
